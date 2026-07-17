@@ -85,6 +85,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,50:3b82f6,100:00d4ff&section=footer" width="100%" alt="footer"/>
 
-💬 *¿Tienes un negocio o proceso que quieras automatizar? Escríbeme.*
+💬 *¿Tienes un negocio o proceso que quieras automatizar? Escríbeme.* ⚡
 
 </div>
