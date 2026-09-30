@@ -54,16 +54,16 @@
 
 <div align="center">
 
+<sub>Las tarjetas externas muestran actividad pública. GitHub conserva por separado las contribuciones de repositorios privados.</sub>
+
+<br/><br/>
+
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbello0203-crypto&theme=tokyonight" alt="Estadísticas actuales de GitHub"/>
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidbello0203-crypto&theme=tokyonight" alt="Lenguajes por repositorio"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbello0203-crypto&theme=tokyonight" alt="Actividad reciente del perfil" width="90%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=davidbello0203-crypto&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00d4ff&fire=8b5cf6&currStreakLabel=00d4ff&locale=es" alt="streak"/>
 
 <br/>
 
