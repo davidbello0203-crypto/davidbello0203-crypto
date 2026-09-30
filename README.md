@@ -50,28 +50,7 @@
 | 🎡 [The Green Garden](https://github.com/davidbello0203-crypto/the-green-garden-menu) | Menú digital **gamificado** (ruletas de premios) para un bar real | React · Framer Motion |
 | 🪪 [CV interactivo](https://github.com/davidbello0203-crypto/DavidbelloCv) | Mi CV web con fondo galaxia WebGL y animaciones | Next.js · Framer Motion · OGL |
 
-## 📊 Estadísticas
-
-<div align="center">
-
-<sub>Las tarjetas externas muestran actividad pública. GitHub conserva por separado las contribuciones de repositorios privados.</sub>
-
-<br/><br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbello0203-crypto&theme=tokyonight" alt="Estadísticas actuales de GitHub"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidbello0203-crypto&theme=tokyonight" alt="Lenguajes por repositorio"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbello0203-crypto&theme=tokyonight" alt="Actividad reciente del perfil" width="90%"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/00d4ff/davidbello0203-crypto" alt="gráfica de contribuciones" width="90%"/>
-
-</div>
-
-## 🐍 Contribuciones
+## 🐍 Actividad en GitHub
 
 <div align="center">
 
