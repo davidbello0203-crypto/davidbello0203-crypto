@@ -54,8 +54,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=davidbello0203-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&icon_color=8b5cf6&text_color=e2e8f0&locale=es" alt="stats"/>
-<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=davidbello0203-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&text_color=e2e8f0&locale=es" alt="langs"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbello0203-crypto&theme=tokyonight" alt="Estadísticas actuales de GitHub"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidbello0203-crypto&theme=tokyonight" alt="Lenguajes por repositorio"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbello0203-crypto&theme=tokyonight" alt="Actividad reciente del perfil" width="90%"/>
 
 <br/>
 
@@ -72,9 +76,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake-dark.svg" alt="snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake-dark.svg?v=20260930"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake.svg?v=20260930"/>
+  <img src="https://raw.githubusercontent.com/davidbello0203-crypto/davidbello0203-crypto/output/github-snake-dark.svg?v=20260930" alt="Animación de contribuciones de GitHub"/>
 </picture>
 
 </div>

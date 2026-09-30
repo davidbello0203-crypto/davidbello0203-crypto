@@ -2,7 +2,7 @@ name: Generar animación snake
 
 on:
   schedule:
-    - cron: "0 6 * * *" # todos los días a las 6:00 UTC
+    - cron: "17 */6 * * *" # cuatro veces al día; el minuto no redondo reduce retrasos de GitHub Actions
   workflow_dispatch:
   push:
     branches: [main]
@@ -10,15 +10,19 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Generar SVG de la serpiente
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: davidbello0203-crypto
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
